@@ -1,0 +1,35 @@
+.class1 p{
+    color: blue;
+}
+p{
+    color: red;
+}
+/*
+
+*{
+    background-color: darkgray;
+}
+*/
+
+.class1 h1{
+    color:aqua;
+}
+.class1 #first{
+    background-color: blueviolet;
+}
+.class1{
+    background: #fff url("image/cart.png") no-repeat fixed right top;
+}
+h1{
+    border-style: solid dotted dashed double;
+    border-width: 5px 10px 15px 20px;
+    border-color: red green yellow blue;
+    /*border-bottom: none;*/
+    border-radius: round; 
+    /*border-left:10px;*/
+}
+.class2{
+    height:300px;
+    width: 300px;
+    border: 5px dashed blue;
+}
